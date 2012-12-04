@@ -14,3 +14,5 @@ public class Global extends GlobalSettings {
     }
 }
 //Änderung um 20:28
+
+//Änderung von Moritz um 22:15
